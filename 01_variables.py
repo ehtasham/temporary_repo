@@ -1,7 +1,7 @@
 # Slide: "Variables & data types"
 # Run:  python snippets/01_variables.py
 
-file_name ="my_file.txt" #string
+file_name ="your_file.txt" #string
 my_no = 100 # integer
 my_second_no = 100.2 # float
 is_true = False # bool
